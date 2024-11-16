@@ -1,0 +1,13 @@
+# Ignore PyTorch model and dataset files
+*.pt
+*.bin
+*.h5
+*.zip
+*.tar
+*.gz
+
+# Ignore temporary and system files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
